@@ -1,0 +1,22 @@
+{
+  "name": "coin-collector",
+  "version": "1.0.0",
+  "description": "Coin Collector",
+  "main": "coins.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lukepage04/coin-collector.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lukepage04/coin-collector/issues"
+  },
+  "homepage": "https://github.com/lukepage04/coin-collector#readme",
+  "devDependencies": {
+    "jest": "^29.4.2"
+  }
+}
